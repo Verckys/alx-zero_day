@@ -1,6 +1,2 @@
 #!/bin/bash
- update_script
 echo "ALX School is cool!"
-=======
-echo "ALX School is cool!"
- master
